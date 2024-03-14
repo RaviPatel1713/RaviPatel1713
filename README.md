@@ -8,7 +8,7 @@
 - 📫 How to reach me: [ravipatel1713@gmail.com]
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Medium](https://medium.com/@rp001713)
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I am Game of Thrones Fanatic 👸 👑 🐉 ⚔ 🦁 ❄️ 🍷 🤴 🏹 !
+- ⚡ Fun fact: I am a Game of Thrones Fanatic 👸 👑 🐉 ⚔ 🦁 ❄️ 🍷 🤴 🏹 !
 - 📚 Check out my previous projects below!
 
 <!-- - 🌐 [Personal Website](https://www.example.com) -->
