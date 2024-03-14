@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I am Ravi Patel 👋
 
 <!--
-**RaviPatel1713/RaviPatel1713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RaviPatel1713/RaviPatel1713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Software Engineer
+- 🔭 I’m currently working on a myriad of projects but nothing is up for a glimpe. Sorry!
+- 🌱 I’m currently learning full stack engineering and art of delivering products faster and efficiently 
+<!-- - 🌐 [Personal Website](https://www.example.com) -->
+- 📫 How to reach me: [ravipatel1713@gmail.com]
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I am chronic binge watcher 😉
+- 📚 Check out my previous projects below!
