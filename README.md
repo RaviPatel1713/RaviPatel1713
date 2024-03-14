@@ -4,7 +4,6 @@
 **RaviPatel1713/RaviPatel1713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 👨‍💻 Software Engineer
-- 🔭 I’m currently working on a myriad of projects but nothing is up for a glimpe. Sorry!
 - 🌱 I’m currently learning full stack engineering and art of delivering products faster and efficiently 
 <!-- - 🌐 [Personal Website](https://www.example.com) -->
 - 📫 How to reach me: [ravipatel1713@gmail.com]
